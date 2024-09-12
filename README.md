@@ -23,8 +23,8 @@ welcome to my github profile
 
 ## 💻 Languages:
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48" style="display: inline; margin-right: 5px;"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="display: inline; margin-right: 5px;"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> 
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> 
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"/> 
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> 
