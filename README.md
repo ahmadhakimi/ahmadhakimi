@@ -43,17 +43,17 @@ welcome to my github profile
 
 ## 🔧 Tools & Technologies:
 
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/figma.png" width="48" height="48"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48"/> 
-<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/figma.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" style="display:inline;"/> 
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48" style="display:inline;"/>
 
 ## 📦 Devops
 
