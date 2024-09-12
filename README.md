@@ -10,12 +10,11 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social) -->
 ## Tech & Tools: 
-- 💻 Languages: ![image](https://github.com/user-attachments/assets/68ed8f0e-9750-4cde-9c31-ee42ceee0e43) 
+- 💻 Languages: <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 - 🖼️ Frameworks:
 - 🔧 Tools:
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
