@@ -10,7 +10,8 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social) -->
 ## Tech & Tools: 
-- 💻 Languages: <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>
+- ## 💻 Languages:
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 - 🖼️ Frameworks:
 - 🔧 Tools:
