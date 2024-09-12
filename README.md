@@ -1,88 +1,30 @@
-# Hi there, I am Hakimi👋
+<h1 align="center">Hi 👋, I'm Ahmad Hakimi</h1>
+<h3 align="center">Self-learner and recent graduate from Malaysia</h3>
 
-![Welcome](https://www.icegif.com/wp-content/uploads/icegif-1787.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhakimi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhakimi" /> </p>
 
-welcome to my github profile
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhakimi" alt="ahmadhakimi" /></a> </p>
 
-- 🔭 I’m currently working on my undergoing project.
-- 🌱 I’m currently learning back-end tech and a bit of front-end.
+- 🔭 I’m currently working on [EMS Project](https://github.com/ahmadhakimi/microservice-ems-springboot)
 
-## 📫 How to Reach Me:
+- 🌱 I’m currently learning **Spring framework, Typescript, Dev Ops**
 
-- <img src="https://img.icons8.com/color/20/000000/gmail.png" width="20" height="20"/> Email: [hakimirasidi99@gmail.com](mailto:hakimirasidi99@gmail.com)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/ahmad-hakimi-ahmad-rasidi/)
-- <img src="https://img.icons8.com/fluency/48/000000/github.png" width="20" height="20"/> [GitHub](https://github.com/ahmadhakimi/ahmadhakimi)
+- 👨‍💻 All of my projects are available at [https://ahmadhakimi.netlify.app/](https://ahmadhakimi.netlify.app/)
 
-- <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" height="20"/> Discord: `qamarduque `
-- <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="20" height="20"/> [My Website](https://ahmadhakimi.netlify.app/)
+- 📫 How to reach me **hakimirasidi99@gmail.com**
 
-<!-- **ahmadhakimi/ahmadhakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/ahmadhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmadhakimi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad-hakimi-ahmad-rasidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-hakimi-ahmad-rasidi" height="30" width="40" /></a>
+<a href="https://discord.gg/qamarduque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qamarduque" height="30" width="40" /></a>
+</p>
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💻 Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadhakimi&show_icons=true&locale=en&layout=compact" alt="ahmadhakimi" /></p>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/sass.png" width="48" height="48"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadhakimi&show_icons=true&locale=en" alt="ahmadhakimi" /></p>
 
-## 🖼️ Frameworks & Libraries:
-
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48"/> 
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" height="48"/>
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="48" height="48"/>
-
-## 🔧 Tools & Technologies:
-
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/figma.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" style="display:inline;"/> 
-<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48" style="display:inline;"/>
-
-## 📦 Devops
-
-<img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width="48" height="48"/> 
-<img src="https://img.icons8.com/color/48/000000/grafana.png" width="48" height="48"/>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadhakimi&show_icons=true&theme=radical)
-
-## Projects
-
-- [AVSEC Online Pass (AOP)](https://github.com/ahmadhakimi/Mock-AOP-Website): A mock online pass application by AVSEC.<br>
-  ![HTML Icon](https://img.icons8.com/color/20/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/20/000000/css3.png) ![TypeScript Icon](https://img.icons8.com/color/20/000000/typescript.png) ![Angular Icon](https://img.icons8.com/color/20/000000/angularjs.png) ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![Spring Framework Icon](https://img.icons8.com/color/20/000000/spring-logo.png) ![SCSS Icon](https://img.icons8.com/color/20/000000/sass.png) ![Bootstrap Icon](https://img.icons8.com/color/20/000000/bootstrap.png) ![IntelliJ IDEA Icon](https://img.icons8.com/color/20/000000/intellij-idea.png) ![Visual Studio Code Icon](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) ![Git Logo](https://img.icons8.com/color/20/000000/git.png)
-
-- [Employee Management System (EMS)](https://github.com/ahmadhakimi/microservice-ems-springboot): A microservice application for employee and department management.<br>
-  ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![Spring Framework Icon](https://img.icons8.com/color/20/000000/spring-logo.png) ![IntelliJ IDEA Icon](https://img.icons8.com/color/20/000000/intellij-idea.png) ![MySQL Icon](https://img.icons8.com/color/20/000000/mysql-logo.png) ![Git Logo](https://img.icons8.com/color/20/000000/git.png)
-
-- [Claim Request System](https://github.com/ahmadhakimi/claim-request-system): Java Spring application for staff's claim system.<br>
-  ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![Spring Framework Icon](https://img.icons8.com/color/20/000000/spring-logo.png) ![IntelliJ IDEA Icon](https://img.icons8.com/color/20/000000/intellij-idea.png) ![MySQL Icon](https://img.icons8.com/color/20/000000/mysql-logo.png) ![Git Logo](https://img.icons8.com/color/20/000000/git.png)
-
-- [Shopping Cart Application](https://github.com/ahmadhakimi/shopping-cart-microservice): application for product, inventory managmenet and order place by user for online shopping.<br>
-  ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![Spring Framework Icon](https://img.icons8.com/color/20/000000/spring-logo.png) ![IntelliJ IDEA Icon](https://img.icons8.com/color/20/000000/intellij-idea.png) ![MySQL Icon](https://img.icons8.com/color/20/000000/mysql-logo.png) ![Docker Logo](https://img.icons8.com/color/20/000000/docker.png) ![Git Logo](https://img.icons8.com/color/20/000000/git.png) ![prometheus](https://img.icons8.com/color/20/000000/prometheus-app.png) ![grafana](https://img.icons8.com/color/20/000000/grafana.png)
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhakimi&" alt="ahmadhakimi" /></p>
