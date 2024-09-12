@@ -23,43 +23,42 @@ welcome to my github profile
 
 ## 💻 Languages:
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/sql.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/sass.png" width="48" height="48"/>
 
 ## 🖼️ Frameworks & Libraries:
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" height="48">
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width=48>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48"/> 
+<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" height="48"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="48" height="48"/>
 
 ## 🔧 Tools & Technologies:
 
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48" /> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma.png"/>
-<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width=48 height=48/>
-<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width=48 >
+<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/figma.png" width="48" height="48"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"/> 
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48"/> 
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48"/>
 
 ## 📦 Devops
 
-<img src="https://img.icons8.com/color/48/000000/docker.png">
-<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width="48" height="48"/> 
 <img src="https://img.icons8.com/color/48/000000/grafana.png" width="48" height="48"/>
 
 ## GitHub Stats
