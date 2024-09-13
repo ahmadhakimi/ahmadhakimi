@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Hakimi</h1>
 <h3 align="center">Self-learner and recent graduate from Malaysia</h3>
 
+![Welcome](https://www.icegif.com/wp-content/uploads/icegif-1787.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhakimi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhakimi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhakimi" alt="ahmadhakimi" /></a> </p>
