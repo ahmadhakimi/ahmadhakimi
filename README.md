@@ -7,16 +7,23 @@
 
 - 🔭 I’m currently working on [EMS Project](https://github.com/ahmadhakimi/microservice-ems-springboot)
 
-- 🌱 I’m currently learning **Spring framework, Typescript, Dev Ops**
+- 🌱 I’m currently learning **Spring framework, Typescript, Dev Ops, Security**
+
+- 🤝 I’m looking for help with [Mock AOP project](https://github.com/ahmadhakimi/Mock-AOP-Website)
 
 - 👨‍💻 All of my projects are available at [https://ahmadhakimi.netlify.app/](https://ahmadhakimi.netlify.app/)
 
+- 💬 Ask me about **java, spring framework, angular**
+
 - 📫 How to reach me **hakimirasidi99@gmail.com**
+
+- ⚡ Fun fact **falcon is the fastest animal in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ahmadhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmadhakimi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmad-hakimi-ahmad-rasidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-hakimi-ahmad-rasidi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23177588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23177588" height="30" width="40" /></a>
 <a href="https://discord.gg/qamarduque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qamarduque" height="30" width="40" /></a>
 </p>
 
