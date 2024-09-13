@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhakimi" alt="ahmadhakimi" /></a> </p>
 
-- 🔭 I’m currently working on [EMS Project](https://github.com/ahmadhakimi/microservice-ems-springboot)
+- 🔭 I’m currently working on [EMS Project](https://github.com/ahmadhakimi/microservice-ems-springboot) & [AOP project](https://github.com/ahmadhakimi/Mock-AOP-Website)
 
 - 🌱 I’m currently learning **Spring framework, Typescript, Dev Ops, Security**
 
