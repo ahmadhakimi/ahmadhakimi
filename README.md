@@ -9,19 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadhakimi" alt="ahmadhakimi" /></a> </p>
 
-- 🔭 I’m currently working on [EMS Project](https://github.com/ahmadhakimi/microservice-ems-springboot) & [AOP project](https://github.com/ahmadhakimi/Mock-AOP-Website)
-
-- 🌱 I’m currently learning **Spring framework, Typescript, Dev Ops, Security**
-
-- 🤝 I’m looking for help with [Mock AOP project](https://github.com/ahmadhakimi/Mock-AOP-Website)
+- 🔭 I’m currently working for Etiqa
+  
+- 🌱 I’m currently learning **Spring framework, PLSQL**
 
 - 👨‍💻 All of my projects are available at [https://ahmadhakimi.netlify.app/](https://ahmadhakimi.netlify.app/)
 
-- 💬 Ask me about **java, spring framework, angular**
+- 💬 Ask me about **java, spring framework, SQL**
 
 - 📫 How to reach me **hakimirasidi99@gmail.com**
-
-- ⚡ Fun fact **falcon is the fastest animal in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
